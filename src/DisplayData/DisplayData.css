@@ -1,0 +1,17 @@
+.c{
+    color: white;
+    background-color: black;
+    font-size: "35px";
+}
+
+th{
+    border-bottom: 1px solid white;
+    color: rgb(255, 255, 255);
+}
+
+.table{
+    color:white;
+    background-color: black;
+    margin: 0 10px ;
+    border: 1px solid white;
+}
